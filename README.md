@@ -74,6 +74,8 @@ From ***tello drone ros*** [YT search results](https://www.youtube.com/results?s
 	- ***See more references in video's description:***
 1. **Autonomous Drone Scanning and Mapping | DJI Tello | ORB_SLAM2** [YT video](https://www.youtube.com/watch?v=lqBRYkWSmjI)
 	- *Autonomous Drone Scanning and Mapping* [Github repository](https://github.com/waseemtannous/Autonomous-Drone-Scanning-and-Mapping)
+1. **Visual SLAM Webinar: ORB-SLAM2 Paper & Code Review (English)** [YT video](https://www.youtube.com/watch?v=z4ldKGh12ok)
+1. *Intelligent Tello swarm based on orb-slam and ccm-slam* [YT video](https://www.youtube.com/watch?v=Uq-UYJXUIMk)
 1. **Drone Programming With Python Course | 3 Hours | Including x4 Projects | Computer Vision** [YT video](https://www.youtube.com/watch?v=LmEcyQnfpDA)
 1. **Easy Programming of Tello Drone | Python OpenCV Object Tracking** [YT video](https://www.youtube.com/watch?v=vDOkUHNdmKs) 
 
